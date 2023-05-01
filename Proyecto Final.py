@@ -1,3 +1,6 @@
+#Bienvenidos a mi programa integrador final de Python por DigitalMind
+#En el mismo, implementé algunos de los conocimientos aprendidos en el curso
+#Algunas partes tienen la funcion de time.sleep solo a modo de poner a prueba la paciencia jeje
 import time
 import random
 import sys
